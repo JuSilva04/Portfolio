@@ -1,0 +1,42 @@
+* {
+ margin: auto;
+    text-align: justify
+body{
+    background-image: url(https://static.vecteezy.com/ti/vetor-gratis/p1/2099443-programacao-codigo-codificacao-ou-hacker-fundo-programacao-codigo-icone-feito-com-codigo-binario-digital-dados-binarios-e-streaming-codigo-digital-vetor.jpg);
+    overflow: overlay;
+    
+header{
+    display: flex;
+    justify-content: space-around;
+    max-width: initial;
+    align-items: center;
+    text-align: center;
+    padding-top: inherit;
+
+
+cabeçalho-link{
+    /* color: #2ecc71; */
+    transition: auto;
+}
+
+    h3{
+    color: #fff;
+    font-size: 15px;
+]
+
+     h1 {
+    color: #fff;
+    margin-top: 10px;
+    font-size: 40x;
+    color: #2ecc71;
+    font-size: 30px;
+
+      p {
+    color: #fff;
+    font-weight: 500;
+    margin-top: 10px;
+    font-size: 20px;
+<!-- contato---->
+   section class{
+    color: white
+
